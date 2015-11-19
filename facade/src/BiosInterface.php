@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: apple
- * Date: 15/11/19
- * Time: 下午9:21
- */
-
 namespace ryan\facade;
 
 interface BiosInterface

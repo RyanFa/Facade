@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: apple
- * Date: 15/11/19
- * Time: 下午9:33
- */
-
 namespace ryan\facade\test;
+
 use ryan\facade\Facade as Computer;
 use ryan\facade\OsInterface;
 
